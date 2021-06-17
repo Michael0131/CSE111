@@ -1,0 +1,8 @@
+#Welcome user
+
+print("Welcome to Mike's Tire Shop! To find the volue of your tire,")
+print("ether the required information below.")
+
+#Get user info
+tire_width =input("Enter the width of the tire in mm (Ex: 205): ")
+aspect_ratio=input("Enter the aspect ratio of the tire (Ex: 60): 50)
